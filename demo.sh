@@ -8,3 +8,6 @@ date
 
 echo "**********Display present working directory *******"
 pwd
+whoami
+ls
+ls -l
