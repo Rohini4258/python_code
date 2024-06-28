@@ -11,3 +11,6 @@ pwd
 whoami
 ls
 ls -l
+
+echo "Good Morning"
+echo"How are you"
