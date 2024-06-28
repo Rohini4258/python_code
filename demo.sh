@@ -14,3 +14,6 @@ ls -l
 
 echo "Good Morning"
 echo"How are you"
+
+echo "Hi"
+
