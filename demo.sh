@@ -17,3 +17,4 @@ echo"How are you"
 
 echo "Hi"
 echo "Hello Rohini"
+echo "Bye"
